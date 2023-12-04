@@ -1,0 +1,3 @@
+display7SegmentLed.c:9:6:clearSeg	8	static
+display7SegmentLed.c:16:6:displaySegLed	16	static
+display7SegmentLed.c:33:6:displayNum	16	static
